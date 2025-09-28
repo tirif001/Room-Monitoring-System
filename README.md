@@ -1,6 +1,4 @@
 # Room-Monitoring-System
-PIC24-based audio visualizer that samples a microphone, processes sound levels in real time, and drives a WS2812B LED strip with colorful patterns. Features interrupt-driven ADC, timers, a circular buffer, and an I²C LCD interface for live level display.
-
 This project is an **audio visualizer** built with a PIC24 microcontroller. It samples microphone input, processes sound levels in real time, and drives a WS2812B LED strip with colorful patterns. An I²C LCD is included for live display of the measured sound level.  
 
 ---
